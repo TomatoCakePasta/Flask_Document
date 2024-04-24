@@ -7,3 +7,5 @@
 テスト工程の箇所は実施していません。
 
 https://flask.palletsprojects.com/en/3.0.x/tutorial/
+
+※細かいメモは個人的な物なので気にしないでください。
